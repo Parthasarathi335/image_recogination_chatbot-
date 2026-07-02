@@ -1,0 +1,16 @@
+# Virtual environment — never commit this, it's ~2GB+
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor settings
+.vscode/
+.idea/
